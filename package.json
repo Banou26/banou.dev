@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/banou26/banou.dev",
+  "author": "Banou26 <me@banou.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.17",
+    "parcel": "^2.0.0-alpha.1.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html --no-cache"
+  }
+}
